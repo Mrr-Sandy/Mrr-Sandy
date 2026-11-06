@@ -5,7 +5,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/about-dark.svg">
-  <img src="./assets/readme/about-light.svg" width="100%" alt="About: MCA (AI & Data Science) student at Graphic Era University, Dehradun. I build web apps and machine learning projects that solve real-world problems.">
+  <img src="./assets/readme/about-light.svg" width="100%" alt="About: MCA (AI & Data Science) student at Graphic Era University. I build web apps and ML projects that solve real problems.">
 </picture>
 
 <picture>
@@ -18,11 +18,11 @@
   <img src="./assets/readme/projects-light.svg" width="100%" alt="Projects: DropPoint, AI Crop Advisory, Sentiment and Emotion Analysis">
 </picture>
 
-&nbsp;&nbsp;&nbsp;**DropPoint** &nbsp;[Code](https://github.com/Mrr-Sandy/Dropoint) · [Live](https://droppoint-iota.vercel.app) &nbsp;&nbsp;/&nbsp;&nbsp; **AI Crop Advisory** &nbsp;[Code](https://github.com/Mrr-Sandy/ai-crop-advisory-platform) · [Live](https://ai-crop-advisory-platform.vercel.app) &nbsp;&nbsp;/&nbsp;&nbsp; **Sentiment & Emotion** &nbsp;[Code](https://github.com/Mrr-Sandy/sentiment-emotion-analysis)
+&nbsp;&nbsp;&nbsp;**DropPoint** [Code](https://github.com/Mrr-Sandy/Dropoint) · [Live](https://droppoint-iota.vercel.app) &nbsp;/&nbsp; **AI Crop Advisory** [Code](https://github.com/Mrr-Sandy/ai-crop-advisory-platform) · [Live](https://ai-crop-advisory-platform.vercel.app) &nbsp;/&nbsp; **Sentiment & Emotion** [Code](https://github.com/Mrr-Sandy/sentiment-emotion-analysis)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stats-dark.svg">
-  <img src="./assets/readme/stats-light.svg" width="100%" alt="GitHub activity">
+  <img src="./assets/readme/stats-light.svg" width="100%" alt="GitHub stats">
 </picture>
 
 <p>
@@ -35,8 +35,6 @@
     <img width="49%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrr-Sandy&layout=compact&hide_border=true&bg_color=00000000&title_color=0A0A0A&text_color=6B6B6B">
   </picture>
 </p>
-
-<img width="100%" alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/2ea043/Mrr-Sandy">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/contact-dark.svg">
